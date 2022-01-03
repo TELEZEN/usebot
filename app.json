@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/shiwabot/Aniebot/",
-  "website": "https://github.com/shiwabot/Aniebot/",
+  "repository": "https://github.com/TELEZEN/Aniebots/",
+  "website": "https://github.com/TELEZEN/Aniebots/",
   "success_url": "https://t.me/Aniebotsupports",
   "env": {
     "ENV": {
