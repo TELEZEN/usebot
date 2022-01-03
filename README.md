@@ -12,7 +12,7 @@
 
 <h3> DEPLOY TO HEROKU </h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TELEZEN/Aniebots/edit/main/README.md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TELEZEN/Aniebots)
          
 </a>
 
